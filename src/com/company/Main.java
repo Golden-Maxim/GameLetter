@@ -1,5 +1,4 @@
 package com.company;
-import java.sql.SQLOutput;
 import java.util.Random;
 import java.util.Scanner;
 import java.lang.*;
